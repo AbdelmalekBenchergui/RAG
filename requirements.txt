@@ -1,0 +1,13 @@
+unstructured[pdf]
+python-docx
+beautifulsoup4
+lxml
+langchain-text-splitters
+sentence-transformers
+python-dotenv
+qdrant-client
+neo4j
+httpx
+fastapi
+uvicorn
+python-multipart

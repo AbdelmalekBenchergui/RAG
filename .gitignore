@@ -1,0 +1,24 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Secrets / config
+.env
+
+# Vector DB data
+qdrant_data/
+chroma_db/
+
+# Graph DB data
+neo4j_data/
+
+# Sample / generated data
+sample_data/
+
+# Input data and test queries
+data/
+
+# Reports
+report/
